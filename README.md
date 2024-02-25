@@ -8,9 +8,9 @@ Only alphanumeric characters and punctuation are supported.
 It was created using "Siv3D", an open source framework for game production.  
 
 # ダウンロード|Download
-リポジトリページの右にあるReleaseの欄から最新バージョンをダウンロード可能です．  
+リポジトリページの右にあるReleasesの欄から最新バージョンをダウンロード可能です．  
   
-You can download the latest version from the Release column on the right side of the repository page.  
+You can download the latest version from the Releases column on the right side of the repository page.  
 
 
 # なぜ未完成なのか？|Why unfinished?

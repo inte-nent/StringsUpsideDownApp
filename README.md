@@ -8,11 +8,10 @@ Only alphanumeric characters and punctuation are supported.
 It was created using "Siv3D", an open source framework for game production.  
 
 # ダウンロード|Download
-生成されたexeファイルのサイズが25MB以上のためアップロード不可でした．  
-そのためダウンロード可能なリリースはありません．  
+リポジトリページの右にあるReleaseの欄から最新バージョンをダウンロード可能です．  
   
-The generated exe file could not be uploaded because its size is over 25 MB.  
-Therefore, there is no release available for download.  
+You can download the latest version from the Release column on the right side of the repository page.  
+
 
 # なぜ未完成なのか？|Why unfinished?
 文字を逆さまに表示したように見せかけるために様々な文字を用いていますが，そのさまざまな文字表示に対応したフォントをフレームワーク内のGUIで使用することが困難であると判断されたため，このアプリケーションは未完成です．  

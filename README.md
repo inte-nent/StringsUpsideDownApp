@@ -8,6 +8,7 @@ It was created using "Siv3D", an open source framework for game production.
 # ダウンロード方法
 生成されたexeファイルのサイズが25MB以上のためアップロード不可でした．  
 そのためダウンロード可能なリリースはありません．  
+  
 The generated exe file could not be uploaded because its size is over 25 MB.  
 Therefore, there is no release available for download.  
 
